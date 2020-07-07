@@ -1,4 +1,4 @@
-package br.com.alvoradatec.calculadora;
+package br.com.alvoradatec.calculadora.visao;
 
 import javax.swing.*;
 
